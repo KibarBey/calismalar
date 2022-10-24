@@ -1,0 +1,15 @@
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\bin\Debug\udemy_calismalar.exe.config
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\bin\Debug\udemy_calismalar.exe
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\bin\Debug\udemy_calismalar.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.Properties.Resources.resources
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.exe
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.pdb
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.kullanicigirispaneli.resources
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.THY.resources
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.Sinav.resources
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.timergorevi.resources
+C:\Users\emirh\OneDrive\Masaüstü\Udemy\udemy_calismalar\udemy_calismalar\obj\Debug\udemy_calismalar.progressbarr.resources
